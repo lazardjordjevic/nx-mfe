@@ -9,7 +9,7 @@ export function App() {
 
   useEffect(() => {
     setName(() => {
-      Account.name = 'Lazer blazing321';
+      Account.name = 'Lazer blazing3210-123456789 truly';
       return Account.name;
     });
   }, []);

@@ -26,6 +26,7 @@ export function App() {
       </ul>
       <Routes>
         <Route path="/" element={<NxWelcome title="ecommerce" />} />
+
         <Route path="/account" element={<Account />} />
 
         <Route path="/search" element={<Search />} />
